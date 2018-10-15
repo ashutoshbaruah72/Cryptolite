@@ -1,2 +1,1 @@
-# Cryptolite
-A simple file encryption decryption system
+Project progress will be updated soon.
